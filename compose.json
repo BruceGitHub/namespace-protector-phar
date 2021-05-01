@@ -1,0 +1,12 @@
+{
+	"name": "brucegithub/namespace-protector-phar",
+	"description": "A tool to protect your namespace",
+	"license": ["MIT"],
+	"require": {
+		"php": "^7.4|^8.0"
+	},
+	"bin": [
+		"namespace-protector",
+		"namespace-protector.phar"
+	]
+}
