@@ -6,6 +6,6 @@
 		"php": "^7.4|^8.0"
 	},
 	"bin": [
-		"namespace-protector.phar"
+		"namespace-protector"
 	]
 }
